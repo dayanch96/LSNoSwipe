@@ -1,0 +1,9 @@
+Package: com.dvntm.lsnoswipe
+Name: LSNoSwipe
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disables swipe to open cam gesture on the lock screen
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
